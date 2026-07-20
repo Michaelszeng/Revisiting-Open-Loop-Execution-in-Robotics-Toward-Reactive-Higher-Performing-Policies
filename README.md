@@ -1,7 +1,6 @@
 ## Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies
 
-Home page for all the code used in the paper: [Revisiting Open-Loop Execution in Robotics: Toward Reactive,
-Higher-Performing Policies](TODO)
+Home page for all the code used in the paper: [arxiv link]()
 
 - Diffusion Policy Training Repository: https://github.com/Michaelszeng/diffusion-policy-experiments
 - `FurnitureSim` Experiments: TODO
