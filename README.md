@@ -1,4 +1,4 @@
-# Revisiting-Open-Loop-Execution-in-Robotics-Toward-Reactive-Higher-Performing-Policies
+## Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies
 
 Home page for all the code used in the paper: [Revisiting Open-Loop Execution in Robotics: Toward Reactive,
 Higher-Performing Policies](TODO)
